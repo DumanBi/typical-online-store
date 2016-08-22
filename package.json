@@ -1,0 +1,28 @@
+{
+  "name": "typical-online-store",
+  "version": "1.0.0",
+  "description": "Typical online store on nodejs, typescript, react, webpack, bem, mongodb etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DumanBi/typical-online-store.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "react",
+    "webpack",
+    "bem",
+    "mongodb",
+    "redux"
+  ],
+  "author": "DumanBi and Goldobin Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DumanBi/typical-online-store/issues"
+  },
+  "homepage": "https://github.com/DumanBi/typical-online-store#readme"
+}
