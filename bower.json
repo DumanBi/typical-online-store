@@ -1,0 +1,26 @@
+{
+  "name": "typical-online-store",
+  "description": "Typical online store on nodejs, typescript, react, webpack, bem, mongodb etc.",
+  "main": "index.js",
+  "authors": [
+    "DumanBi and Goldobin Alex"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "react",
+    "webpack",
+    "bem",
+    "mongodb",
+    "redux"
+  ],
+  "homepage": "https://github.com/DumanBi/typical-online-store",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
